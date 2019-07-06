@@ -1,0 +1,7 @@
+﻿  pch.cpp
+  ShellcodeLoaderImproved.cpp
+c:\users\john\source\repos\shellcodeloaderimproved\shellcodeloaderimproved\shellcodeloaderimproved.cpp(25): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  All 1 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  ShellcodeLoaderImproved.vcxproj -> C:\Users\John\source\repos\ShellcodeLoaderImproved\x64\Release\ShellcodeLoaderImproved.exe
